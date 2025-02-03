@@ -23,7 +23,7 @@ jobs:
 
       - name: Set up Kubernetes context
         run: |
-          az aks get-credentials --resource-group YOUR_RESOURCE_GROUP --name YOUR_AKS_CLUSTER
+          az aks get-credentials --resource-group AZURE_RESOURCE_GROUP --name AZURE_AKS_CLUSTER
 
       - name: Get WordPress Pod Name
         run: |
