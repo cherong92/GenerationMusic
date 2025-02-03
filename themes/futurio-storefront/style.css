@@ -815,7 +815,7 @@ h1.site-title, .site-title {
     border: none;
 }
 #site-navigation {
-    background-color: #d88f8f;
+    background-color: #ffffff;
     border: none;
     min-height: 40px;
     width: 100%;
@@ -894,7 +894,7 @@ nav.navigation.pagination .nav-links a, nav.navigation.pagination .current {
 }
 
 #content-footer-section {
-    background-color: #1e1e1e;
+    background-color: #f36262;
     color: #ffffff;
     padding: 15px;
     clear: both;
