@@ -545,7 +545,7 @@ ul ul .menu-item-has-children.pull-left>.dropdown-menu {
 #top-navigation {
     border: none;
     border-radius: 0;
-    background-color: #f7a8f7;
+    background-color: #ffffff;
     z-index: 996;
     min-height: 32px;
     border-bottom: 1px solid #e2e2e2;
@@ -815,7 +815,7 @@ h1.site-title, .site-title {
     border: none;
 }
 #site-navigation {
-    background-color: #ffffff;
+    background-color: #d88f8f;
     border: none;
     min-height: 40px;
     width: 100%;
