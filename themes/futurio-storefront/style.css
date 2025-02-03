@@ -56,7 +56,7 @@ a img.aligncenter {
     margin-right: auto;
 }
 .wp-caption {
-    background: #e39dec;
+    background: #fff;
     border: 1px solid #f0f0f0;
     max-width: 96%;
     /* Image does not overflow the content area */
@@ -545,7 +545,7 @@ ul ul .menu-item-has-children.pull-left>.dropdown-menu {
 #top-navigation {
     border: none;
     border-radius: 0;
-    background-color: #ffffff;
+    background-color: #f7a8f7;
     z-index: 996;
     min-height: 32px;
     border-bottom: 1px solid #e2e2e2;
