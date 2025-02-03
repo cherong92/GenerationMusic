@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'wp-content/themes/twentytwentyfive/**'
+      - '/themes/twentytwentyfive/**'
 
 jobs:
   sync-theme:
