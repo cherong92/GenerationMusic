@@ -56,7 +56,7 @@ a img.aligncenter {
     margin-right: auto;
 }
 .wp-caption {
-    background: #fff;
+    background: #e39dec;
     border: 1px solid #f0f0f0;
     max-width: 96%;
     /* Image does not overflow the content area */
@@ -200,12 +200,12 @@ a:active {
     overflow: hidden;
 }
 .main-container {
-    background-color: #818181;
+    background-color: #fff;
 }
 .homepage-row.row {
     margin: 0;
     padding: 60px 0 0 0;
-    background: #fff;
+    background: #ffffff;
     color: black;
 }
 .icons-menu-right li.fa {
@@ -545,7 +545,7 @@ ul ul .menu-item-has-children.pull-left>.dropdown-menu {
 #top-navigation {
     border: none;
     border-radius: 0;
-    background-color: #fff;
+    background-color: #ffffff;
     z-index: 996;
     min-height: 32px;
     border-bottom: 1px solid #e2e2e2;
