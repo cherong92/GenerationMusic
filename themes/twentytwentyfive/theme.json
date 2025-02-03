@@ -187,7 +187,7 @@
 	},
 	"styles": {
 		"color": {
-			"background": "var:preset|color|base",
+			"background": "#c2b7b6",
 			"text": "var:preset|color|contrast"
 		},
 		"spacing": {
