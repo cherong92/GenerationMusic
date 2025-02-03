@@ -31,5 +31,5 @@ jobs:
 
       - name: Copy Theme Files to WordPress PVC
         run: |
-          kubectl cp wp-content/themes $POD_NAME:/bitnami/wordpress/wp-content/themes
+          kubectl cp themes $POD_NAME:/bitnami/wordpress/wp-content/themes
           kubectl exec $POD_NAME -- chown -R www-data:www-data /bitnami/wordpress/wp-content/themes
