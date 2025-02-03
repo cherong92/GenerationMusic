@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'themes/twentytwentyfive/**'
+      - 'themes/twentytwentyfive/theme.json'
 
 jobs:
   sync-theme:
